@@ -1,0 +1,13 @@
+p {
+    text-align: left;
+    text-indent: 2.5em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+h1 {
+    background-color: cornsilk;
+    text-align: center;
+    text-shadow: gray 10px;
+    margin-bottom: 2em;
+}
+
